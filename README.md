@@ -62,9 +62,9 @@ The <b>Two Dice Game</b> is an interactive project where two players roll dice, 
 
 <pre>
 📁 Two-Dice-Game
-│── index.html
+│── dice.html
 │── style.css
-│── script.js
+│── dice.js
 │── images/
 </pre>
 
