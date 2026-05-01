@@ -63,7 +63,7 @@ The <b>Two Dice Game</b> is an interactive project where two players roll dice, 
 <pre>
 📁 Two-Dice-Game
 │── dice.html
-│── style.css
+│── styles.css
 │── dice.js
 │── images/
 </pre>
@@ -77,7 +77,7 @@ The <b>Two Dice Game</b> is an interactive project where two players roll dice, 
 </ol>
 
 <pre>
-git clone https://github.com/your-username/two-dice-game.git
+git clone https://github.com/your-username/Two-Dice-Game.git
 </pre>
 
 <ol start="2">
@@ -115,6 +115,15 @@ cd two-dice-game
 
 <hr>
 
+
+## 🤝 Contributing
+Contributions, suggestions, and improvements are always welcome.  
+Feel free to fork the repository and submit a pull request.
+
+---
+
+## 📜 License
+- This project is open-source and free to use for learning and personal projects.
 
 
 <p align="center">
