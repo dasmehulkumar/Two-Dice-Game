@@ -124,7 +124,7 @@ Feel free to fork the repository and submit a pull request.
 
 ## 📜 License
 - This project is open-source and free to use for learning and personal projects.
-
+<hr>
 
 <p align="center">
 ⭐ If you like this project, don't forget to star the repo!
